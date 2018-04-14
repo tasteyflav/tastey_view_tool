@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Various view specific methods for applications that I use.}
   spec.description   = %q{Provides generated HTML data for Rails applications.}
-  spec.homepage      = "www.markeigo.com."
+  spec.homepage      = "http://www.markeigo.com."
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
